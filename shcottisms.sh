@@ -1,11 +1,7 @@
 #!/bin/bash
 
-scottism=$(($RANDOM % 10))
+# Create a variable that executues the RANDOM variable, limiting the range from 0-10. 
+# Wehn echoed, this will show a random number from 0-10.
+scottism=$(( $RANDOM % 11 ))
 
-# List of Scottisms That Could Show
-scottism1="Computer Science is the Answer to Everything"
-
-if "1" is echoed 
-	then echo "$scottism1"
-
- 
+echo $scottism
