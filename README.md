@@ -1,0 +1,5 @@
+# Shcottisms 
+
+Shcottisms is a short bash script I'm developing which when executed echoes a random Scottism. 
+
+I aim to perhaps implement this into my Neofetch config for a nice looking Scottism whenever I boot up my terminal. 
