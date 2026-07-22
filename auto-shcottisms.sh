@@ -1,5 +1,3 @@
-#!/bin/bash
-
 
 # Scottisms
 scottism=$(( $RANDOM % 12 ))
