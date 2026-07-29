@@ -4,8 +4,6 @@ Shcottisms is a short bash script which when executed echoes a random Scottism.
 
 If you DON'T know what a Scottism is, find out, or remain #NotQualifiedToKnow.
 
-![Alt Text](./screenshot.png)
-
 ## Installation
 
 Clone the repo:
