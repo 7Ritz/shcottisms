@@ -2,7 +2,7 @@
 
 Shcottisms is a short bash script which when executed echoes a random Scottism. 
 
-If you DON'T know what a Scottism is, find out, or remain #NotQualifiedToKnow.
+Shcottisms has been changed from Scottisms by Scott Duncan, which are licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
 
 ## Installation
 
